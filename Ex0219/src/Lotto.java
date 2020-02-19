@@ -1,0 +1,15 @@
+
+public class Lotto {
+
+	//»ý¼ºÀÚ
+	Lotto(){
+		
+	}
+	Lotto(int a){
+		number=a;
+	}
+	
+	
+	int number;
+	
+}
